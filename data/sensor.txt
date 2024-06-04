@@ -1,0 +1,11 @@
+sensor_1,1000,10
+sensor_2,1000,10
+sensor_1,1001,20
+sensor_1,1002,30
+sensor_1,4000,10
+sensor_1,5000,100
+sensor_1,9000,100
+sensor_1,12000,100
+sensor_1,21000,100
+sensor_1,30000,100
+sensor_1,39000,100
